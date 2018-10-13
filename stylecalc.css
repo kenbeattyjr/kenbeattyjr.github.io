@@ -6,7 +6,6 @@
 // Some personal resets
 html {
   box-sizing: border-box;
-  padding: .33em;
 }
 
 *,
@@ -131,6 +130,7 @@ body {
 
 .container {
   max-width: 20em;
+  padding: .33em;
 }
 
 .container > p {
