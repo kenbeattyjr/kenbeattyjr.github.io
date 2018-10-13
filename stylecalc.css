@@ -49,6 +49,11 @@ hr {
 
 a {
   text-decoration: none;
+  color: lightgreen;
+}
+
+a:hover, a:active {
+    color: white;
 }
 
 a:focus {
@@ -147,6 +152,14 @@ body {
   font-size: 1.714285714em;
   padding: 0.5em 0.75em;
   text-align: right;
+}
+
+.calculator__bottom {
+  background-color: #111111;
+  color: #fff;
+  font-size: .5em;
+  padding: 0.5em 0.75em;
+  text-align: center;
 }
 
 .calculator__keys {
