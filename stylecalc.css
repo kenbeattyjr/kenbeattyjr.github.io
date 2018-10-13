@@ -6,6 +6,7 @@
 // Some personal resets
 html {
   box-sizing: border-box;
+  padding: .33em;
 }
 
 *,
