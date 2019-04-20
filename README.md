@@ -1,7 +1,7 @@
 Ken Beatty Jr.
 Computer Scientist and Engineer from Detroit, MI
 
-website: https://www.kenbeattyjr.com
+website: https://www.kenbeattyjr.com <br>
 github: kenbeattyjr.github.io
 instagram: www.instagram.com/kenbeattyjr
 facebook: www.facebook.com/kenbeattyjr
