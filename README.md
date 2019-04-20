@@ -1,4 +1,4 @@
-Ken Beatty Jr.<br>
+<h1><b>Ken Beatty Jr.</b></h1><br>
 Computer Scientist and Engineer from Detroit, MI
 <hr>
 website: https://www.kenbeattyjr.com <br>
