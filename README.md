@@ -1,5 +1,5 @@
 <h1><b>Ken Beatty Jr.</b></h1><br>
-Computer Scientist and Engineer from Detroit, MI
+Technology Specialist from Detroit, MI. Specialing in computer programming and educaiton young people.
 <hr>
 website: https://www.kenbeattyjr.com <br>
 github: kenbeattyjr.github.io <br>
@@ -10,4 +10,3 @@ twitter: www.twitter.com/kenbeattyjr<br>
 
 =====================
 
-Test Site for KBj modifications
